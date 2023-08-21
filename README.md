@@ -1,9 +1,7 @@
-<h1 align="center">
-Hi, I'm HavocZhang!
-<br/>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you I'm HavocZhang!</h1>
 
-<hr/>
-<p align="center" size=5>我是一位全栈开发工程师🎡, 会一些 Android / Rust / Java / Go / Vue ,是一位活跃在到处吹牛逼的开源人员👐</p>
+
+<p>Welcome to my page! </br> 我是一位全栈开发工程师🎡, 是一位活跃在到处吹牛逼的开源人员👐</p>
 
 ### 👨‍💻 编程语言
 
@@ -61,6 +59,9 @@ Hi, I'm HavocZhang!
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=HavocZhang&show_icons=true&theme=dracula&hide=stars,issues)
+
 <table width="960px">
 <tr>
 <td valign="top" width="50%">
@@ -85,3 +86,7 @@ Hi, I'm HavocZhang!
 
 </td>
 </tr>
+
+
+![GitHub last commit](https://img.shields.io/github/last-commit/HavocZhang/HavocZhang)
+![pv](https://pageview.vercel.app/?github_user=HavocZhang)
